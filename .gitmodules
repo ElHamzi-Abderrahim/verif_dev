@@ -1,0 +1,3 @@
+[submodule "uvm-practices"]
+	path = uvm-practices
+	url = https://github.com/ElHamzi-Abderrahim/uvm-practices.git
